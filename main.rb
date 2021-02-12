@@ -107,12 +107,12 @@ if $0 == __FILE__
         File.open(file_path, "r+") do |f|
           prev = JSON.load(f)
           f.seek(0)
-          JSON.dump(prev + v, f)
+          f.write(JSON.pretty_generate(prev + v))
         end
       else
 
         File.open(file_path, "w") do |f|
-          JSON.dump(v, f)
+          f.write(JSON.pretty_generate(v))
         end
       end
     end
@@ -121,7 +121,7 @@ if $0 == __FILE__
     meta["created_at"] = guru.created_at
 
     File.open("META.json", "w") do |f|
-      JSON.dump(meta, f)
+      f.write(JSON.pretty_generate(meta))
     end
   end
 end
