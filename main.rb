@@ -3,14 +3,15 @@ require "net/http"
 require "uri"
 require "time"
 
-DRY_RUN = true
+DRY_RUN = false
 
 class GuruLinkAggregator
-  attr_reader :max_id, :created_at
+  attr_reader :max_id, :min_id, :created_at, :count
   @@base_uri = "https://mstdn.guru/api/v1"
   def initialize(resourse)
     @uri = URI.parse("#{@@base_uri}#{resourse}")
     @params = {:local => true, :limit => 40}
+    @count = 0
   end
 
   def aggregate
@@ -19,8 +20,13 @@ class GuruLinkAggregator
     body = JSON.parse(res.body)
     data = self.extract_link(body)
     @max_id = data.min_by { |x| x[:created_at] }.fetch(:id)
-    @min_id, @created_at = data.max_by { |x| x[:created_at] }.fetch_values(:id, :created_at)
+
+    if @count == 0
+      @min_id, @created_at = data.max_by { |x| x[:created_at] }.fetch_values(:id, :created_at)
+    end
+
     @params.update({:max_id => @max_id})
+    @count += 1
     return data
   end
 
@@ -43,13 +49,17 @@ def load_meta(file_name)
 
   File.open(file_name, "r") do |f|
     meta = JSON.load(f)
-
-    if meta["created_at"].empty?
-      meta["created_at"] = nil
-    else
-      meta["created_at"] = Time.parse(meta["created_at"])
-    end
   end
+
+  to_time = lambda { |x|
+    if x.empty?
+      nil
+    else
+      Time.parse(x)
+    end
+  }
+
+  meta["created_at"] = to_time.call(meta["created_at"])
 
   return meta
 end
@@ -88,8 +98,6 @@ if $0 == __FILE__
       end
     end
   end
-
-  p(data)
 
   unless DRY_RUN
     data.each do |k, v|
