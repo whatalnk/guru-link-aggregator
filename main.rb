@@ -101,7 +101,7 @@ if $0 == __FILE__
 
   unless DRY_RUN
     data.each do |k, v|
-      file_path = "data/#{k}.json"
+      file_path = "public/data/#{k}.json"
 
       if File.exist?(file_path)
         File.open(file_path, "r+") do |f|
