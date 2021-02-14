@@ -51,6 +51,7 @@ def load_meta(file_name)
     meta = JSON.load(f)
   end
 
+  puts("Previous run: #{meta["created_at"]}")
   to_time = lambda { |x|
     if x.empty?
       nil
@@ -64,64 +65,65 @@ def load_meta(file_name)
   return meta
 end
 
-if $0 == __FILE__
-  ENV["TZ"] = "Asia/Tokyo"
+ENV["TZ"] = "Asia/Tokyo"
 
-  meta = load_meta("META.json")
-  guru = GuruLinkAggregator.new("/timelines/public")
-  data = Hash.new { |hash, key| hash[key] = Array.new }
+meta = load_meta("META.json")
+guru = GuruLinkAggregator.new("/timelines/public")
+data = Hash.new { |hash, key| hash[key] = Array.new }
 
-  if meta["created_at"].nil?
+if meta["created_at"].nil?
+  d = guru.aggregate
+
+  d.reject { |x| x[:url].nil? }.each do |e|
+    date_jst = e[:created_at].getlocal.strftime("%Y%m%d")
+    data[date_jst] << e
+  end
+else
+
+  flg = true
+  while flg
     d = guru.aggregate
 
-    d.reject { |x| x[:url].nil? }.each do |e|
-      date_jst = e[:created_at].getlocal.strftime("%Y%m%d")
-      data[date_jst] << e
+    d.each do |e|
+      if e[:id] == meta["id"] || e[:created_at] <= meta["created_at"]
+        flg = false
+        next
+      end
+
+      unless e[:url].nil?
+
+        date_jst = e[:created_at].getlocal.strftime("%Y%m%d")
+        data[date_jst] << e
+      end
     end
-  else
+  end
+end
 
-    flg = true
-    while flg
-      d = guru.aggregate
+unless DRY_RUN
+  data.each do |k, v|
+    file_path = "public/data/#{k}.json"
 
-      d.each do |e|
-        if e[:id] == meta["id"] || e[:created_at] <= meta["created_at"]
-          flg = false
-          next
-        end
+    if File.exist?(file_path)
+      File.open(file_path, "r+") do |f|
+        prev = JSON.load(f)
+        f.seek(0)
+        f.write(JSON.pretty_generate(prev + v))
+        puts("#{file_path}: #{v.length} new items")
+      end
+    else
 
-        unless e[:url].nil?
-
-          date_jst = e[:created_at].getlocal.strftime("%Y%m%d")
-          data[date_jst] << e
-        end
+      File.open(file_path, "w") do |f|
+        f.write(JSON.pretty_generate(v))
+        puts("#{file_path}: #{v.length} new items")
       end
     end
   end
 
-  unless DRY_RUN
-    data.each do |k, v|
-      file_path = "public/data/#{k}.json"
+  meta["id"] = guru.min_id
+  meta["created_at"] = guru.created_at
 
-      if File.exist?(file_path)
-        File.open(file_path, "r+") do |f|
-          prev = JSON.load(f)
-          f.seek(0)
-          f.write(JSON.pretty_generate(prev + v))
-        end
-      else
-
-        File.open(file_path, "w") do |f|
-          f.write(JSON.pretty_generate(v))
-        end
-      end
-    end
-
-    meta["id"] = guru.min_id
-    meta["created_at"] = guru.created_at
-
-    File.open("META.json", "w") do |f|
-      f.write(JSON.pretty_generate(meta))
-    end
+  File.open("META.json", "w") do |f|
+    f.write(JSON.pretty_generate(meta))
+    puts("Current run: #{meta["created_at"]}")
   end
 end
