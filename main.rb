@@ -74,6 +74,7 @@ end
 
 def save_data(file_base_name, data)
   file_path = "public/data/#{file_base_name}.json"
+  data.sort_by! { |x| x["created_at"] }
 
   if File.exist?(file_path)
     File.open(file_path, "r+") do |f|
