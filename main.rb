@@ -65,6 +65,32 @@ def load_meta(file_name)
   return meta
 end
 
+def save_meta(file_name, meta)
+  File.open(file_name, "w") do |f|
+    f.write(JSON.pretty_generate(meta))
+    puts("Current run: #{meta["created_at"]}")
+  end
+end
+
+def save_data(file_base_name, data)
+  file_path = "public/data/#{file_base_name}.json"
+
+  if File.exist?(file_path)
+    File.open(file_path, "r+") do |f|
+      prev = JSON.load(f)
+      f.seek(0)
+      f.write(JSON.pretty_generate(prev + data))
+      puts("#{file_path}: #{data.length} new items")
+    end
+  else
+
+    File.open(file_path, "w") do |f|
+      f.write(JSON.pretty_generate(data))
+      puts("#{file_path}: #{data.length} new items")
+    end
+  end
+end
+
 ENV["TZ"] = "Asia/Tokyo"
 
 meta = load_meta("META.json")
@@ -101,29 +127,11 @@ end
 
 unless DRY_RUN
   data.each do |k, v|
-    file_path = "public/data/#{k}.json"
-
-    if File.exist?(file_path)
-      File.open(file_path, "r+") do |f|
-        prev = JSON.load(f)
-        f.seek(0)
-        f.write(JSON.pretty_generate(prev + v))
-        puts("#{file_path}: #{v.length} new items")
-      end
-    else
-
-      File.open(file_path, "w") do |f|
-        f.write(JSON.pretty_generate(v))
-        puts("#{file_path}: #{v.length} new items")
-      end
-    end
+    save_data(k, v)
   end
 
   meta["id"] = guru.min_id
   meta["created_at"] = guru.created_at
 
-  File.open("META.json", "w") do |f|
-    f.write(JSON.pretty_generate(meta))
-    puts("Current run: #{meta["created_at"]}")
-  end
+  save_meta("META.json", meta)
 end
