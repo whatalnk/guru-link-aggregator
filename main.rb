@@ -3,6 +3,8 @@ require "net/http"
 require "uri"
 require "time"
 
+require_relative("util.rb")
+
 DRY_RUN = false
 
 class GuruLinkAggregator
@@ -72,29 +74,42 @@ def save_meta(file_name, meta)
   end
 end
 
-def save_data(file_base_name, data)
+def save_data(file_base_name, data, pattern)
   file_path = "public/data/#{file_base_name}.json"
-  data.sort_by! { |x| x["created_at"] }
+
+  filterd = remove_duplicate(data)
+  filterd = remove_well_known_url(filterd, pattern)
+  filterd = replace_null_title(filterd)
+  filterd.sort_by! { |x| x["created_at"] }
 
   if File.exist?(file_path)
     File.open(file_path, "r+") do |f|
       prev = JSON.load(f)
       f.seek(0)
-      f.write(JSON.pretty_generate(prev + data))
-      puts("#{file_path}: #{data.length} new items")
+      f.write(JSON.pretty_generate(prev + filterd))
+      puts("#{file_path}: #{filterd.length} new items")
     end
   else
 
     File.open(file_path, "w") do |f|
-      f.write(JSON.pretty_generate(data))
-      puts("#{file_path}: #{data.length} new items")
+      f.write(JSON.pretty_generate(filterd))
+      puts("#{file_path}: #{filterd.length} new items")
     end
+  end
+end
+
+def load_well_known_pattern(filename)
+  File.open(filename, "r") do |f|
+    d = YAML.load(f)
+    return d.map { |x| x["url"] }
   end
 end
 
 ENV["TZ"] = "Asia/Tokyo"
 
 meta = load_meta("META.json")
+well_known_pattern = load_well_known_pattern("well_known_url.yaml")
+
 guru = GuruLinkAggregator.new("/timelines/public")
 data = Hash.new { |hash, key| hash[key] = Array.new }
 
@@ -128,7 +143,7 @@ end
 
 unless DRY_RUN
   data.each do |k, v|
-    save_data(k, v)
+    save_data(k, v, well_known_pattern)
   end
 
   meta["id"] = guru.min_id
