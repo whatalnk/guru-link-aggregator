@@ -19,10 +19,10 @@ class GuruLinkAggregator
     res = Net::HTTP.get_response(@uri)
     body = JSON.parse(res.body)
     data = self.extract_link(body)
-    @max_id = data.min_by { |x| x[:created_at] }.fetch(:id)
+    @max_id = data.min_by { |x| x["created_at"] }.fetch("id")
 
     if @count == 0
-      @min_id, @created_at = data.max_by { |x| x[:created_at] }.fetch_values(:id, :created_at)
+      @min_id, @created_at = data.max_by { |x| x["created_at"] }.fetch_values("id", "created_at")
     end
 
     @params.update({:max_id => @max_id})
@@ -33,10 +33,10 @@ class GuruLinkAggregator
   def extract_link(body)
     data = body.map { |x|
       {
-        :id => x.dig("id"),
-        :created_at => Time.parse(x.dig("created_at")),
-        :url => x.dig("card", "url"),
-        :title => x.dig("card", "title")
+        "id" => x.dig("id"),
+        "created_at" => Time.parse(x.dig("created_at")),
+        "url" => x.dig("card", "url"),
+        "title" => x.dig("card", "title")
       }
     }
 
@@ -100,8 +100,8 @@ data = Hash.new { |hash, key| hash[key] = Array.new }
 if meta["created_at"].nil?
   d = guru.aggregate
 
-  d.reject { |x| x[:url].nil? }.each do |e|
-    date_jst = e[:created_at].getlocal.strftime("%Y%m%d")
+  d.reject { |x| x["url"].nil? }.each do |e|
+    date_jst = e["created_at"].getlocal.strftime("%Y%m%d")
     data[date_jst] << e
   end
 else
@@ -111,14 +111,14 @@ else
     d = guru.aggregate
 
     d.each do |e|
-      if e[:id] == meta["id"] || e[:created_at] <= meta["created_at"]
+      if e["id"] == meta["id"] || e["created_at"] <= meta["created_at"]
         flg = false
         next
       end
 
-      unless e[:url].nil?
+      unless e["url"].nil?
 
-        date_jst = e[:created_at].getlocal.strftime("%Y%m%d")
+        date_jst = e["created_at"].getlocal.strftime("%Y%m%d")
         data[date_jst] << e
       end
     end
