@@ -20,6 +20,8 @@ class GuruLinkAggregator
     @uri.query = URI.encode_www_form(@params)
     res = Net::HTTP.get_response(@uri)
     body = JSON.parse(res.body)
+    # Remove bot
+    body = body.reject { |x| x.dig("account", "bot") }
     data = self.extract_link(body)
     @max_id = data.min_by { |x| x["created_at"] }.fetch("id")
 
