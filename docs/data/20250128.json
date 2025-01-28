@@ -28,5 +28,275 @@
     "created_at": "2025-01-27 16:10:02 UTC",
     "url": "https://www.macotakara.jp/etc/category-60/entry-48322.html",
     "title": "Apple、放送情報を追加した「Apple Sports 2.4」を配布開始 | Apple Apps | Mac OTAKARA"
+  },
+  {
+    "id": "113901656461987936",
+    "created_at": "2025-01-27 18:09:09 UTC",
+    "url": "https://www.macotakara.jp/category-54/entry-48313.html",
+    "title": "Apple、機能強化とバグ修正した「iOS 18.3」を配布開始 | iOS | Mac OTAKARA"
+  },
+  {
+    "id": "113901669551752907",
+    "created_at": "2025-01-27 18:12:29 UTC",
+    "url": "https://www.macotakara.jp/iPadOS/entry-48311.html",
+    "title": "Apple、セキュリティを修正した「iPadOS 17.7.4」を配布開始 | iPadOS | Mac OTAKARA"
+  },
+  {
+    "id": "113901679097133504",
+    "created_at": "2025-01-27 18:14:55 UTC",
+    "url": "https://www.macotakara.jp/iPadOS/entry-48312.html",
+    "title": "Apple、機能強化とバグ修正した「iPadOS 18.3」を配布開始 | iPadOS | Mac OTAKARA"
+  },
+  {
+    "id": "113901692880717796",
+    "created_at": "2025-01-27 18:18:25 UTC",
+    "url": "https://www.macotakara.jp/etc/tvOS/entry-48315.html",
+    "title": "Apple、パフォーマンスと安定性を改善した「tvOS 18.3」を配布開始 | tvOS | Mac OTAKARA"
+  },
+  {
+    "id": "113901698168295731",
+    "created_at": "2025-01-27 18:19:46 UTC",
+    "url": "https://www.macotakara.jp/etc/HomePod/entry-48318.html",
+    "title": "Apple、安定性を改善した「HomePodソフトウェア 18.3」を配布開始 | HomePod | Mac OTAKARA"
+  },
+  {
+    "id": "113901709889307859",
+    "created_at": "2025-01-27 18:22:45 UTC",
+    "url": "https://www.macotakara.jp/mac_os_x/entry-48319.html",
+    "title": "Apple、計算機の機能を改善した「macOS Sequoia 15.3」を配布開始 | Mac OS X | Mac OTAKARA"
+  },
+  {
+    "id": "113901739904203413",
+    "created_at": "2025-01-27 18:30:23 UTC",
+    "url": "https://www.macotakara.jp/WatchOS/entry-48317.html",
+    "title": "Apple、新しいユニティリズム文字盤などを追加した「watchOS 11.3」を配布開始 | Watch OS | Mac OTAKARA"
+  },
+  {
+    "id": "113901832092645619",
+    "created_at": "2025-01-27 18:53:49 UTC",
+    "url": "https://jp.ign.com/resident-evil-1996/78125/news/",
+    "title": "「バイオハザード」映画の新たなリブート版の企画が明らかに ゲームの初代バイオに忠実なリブートになる模様"
+  },
+  {
+    "id": "113902024600506230",
+    "created_at": "2025-01-27 19:42:47 UTC",
+    "url": "https://www.macotakara.jp/visionOS/entry-48316.html",
+    "title": "Apple、バグ修正とセキュリティを改善した「visionOS 2.3」を配布開始 | visionOS | Mac OTAKARA"
+  },
+  {
+    "id": "113902052702239294",
+    "created_at": "2025-01-27 19:49:56 UTC",
+    "url": "https://youtube.com/watch?v=X5adgxV0gBE&si=xyE4yloa-i4Mb1fS",
+    "title": "DeepSeek R1 - The Chinese AI \"Side Project\" That Shocked the Entire Industry!"
+  },
+  {
+    "id": "113902741025554998",
+    "created_at": "2025-01-27 22:44:58 UTC",
+    "url": "https://x.com/yasei_no_otoko/status/1883902499574493545?s=12",
+    "title": "野生の男 (@yasei_no_otoko) on X"
+  },
+  {
+    "id": "113902786333848533",
+    "created_at": "2025-01-27 22:56:30 UTC",
+    "url": "https://x.com/kikutainkisa/status/1883873468758065308?s=12",
+    "title": "きくた (@kikutainkisa) on X"
+  },
+  {
+    "id": "113902882818122534",
+    "created_at": "2025-01-27 23:21:02 UTC",
+    "url": "https://kaden.watch.impress.co.jp/docs/news/1656821.html",
+    "title": "シャオミのフロアランプ、自然光に近い光で読書やライブ配信にも - 家電 Watch"
+  },
+  {
+    "id": "113902969882420612",
+    "created_at": "2025-01-27 23:43:11 UTC",
+    "url": "https://www.macotakara.jp/mac_os_x/entry-48320.html",
+    "title": "Apple、セキュリティを修正した「macOS Sonoma 14.7.3」を配布開始 | Mac OS X | Mac OTAKARA"
+  },
+  {
+    "id": "113902976027019657",
+    "created_at": "2025-01-27 23:44:44 UTC",
+    "url": "https://www.macotakara.jp/mac_os_x/entry-48321.html",
+    "title": "Apple、セキュリティを修正した「macOS Ventura 13.7.3」を配布開始 | Mac OS X | Mac OTAKARA"
+  },
+  {
+    "id": "113902984919642754",
+    "created_at": "2025-01-27 23:47:00 UTC",
+    "url": "https://av.watch.impress.co.jp/docs/news/1657919.html",
+    "title": "「機動戦士Gundam GQuuuuuuX」公開10日で興収14.3億円突破"
+  },
+  {
+    "id": "113902986976116083",
+    "created_at": "2025-01-27 23:47:31 UTC",
+    "url": "https://www.macotakara.jp/safari/entry-48323.html",
+    "title": "Apple、セキュリティを修正した「Safari 18.3」を配布開始 | Safari | Mac OTAKARA"
+  },
+  {
+    "id": "113903036655260504",
+    "created_at": "2025-01-28 00:00:09 UTC",
+    "url": "https://tver.jp/live/special/lex7gh7jju",
+    "title": "TVer - 無料で動画見放題"
+  },
+  {
+    "id": "113903044636528093",
+    "created_at": "2025-01-28 00:02:11 UTC",
+    "url": "https://note.com/shi3zblog/n/n58850ac38903",
+    "title": "CyberAgentが蒸留したDeepSeek-R1を試す｜shi3z"
+  },
+  {
+    "id": "113903119864680552",
+    "created_at": "2025-01-28 00:21:19 UTC",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2501/27/news144.html",
+    "title": "米国が本社の「TP-Link」　本当に中国「TP-LINK」との無関係になったのか？　日本法人に聞く"
+  },
+  {
+    "id": "113903165296386537",
+    "created_at": "2025-01-28 00:32:52 UTC",
+    "url": "https://x.com/liangwenfeng_/status/1883918900741763293?s=46",
+    "title": "Liang Wenfeng 梁文锋 (@LiangWenfeng_) on X"
+  },
+  {
+    "id": "113903198792250870",
+    "created_at": "2025-01-28 00:41:23 UTC",
+    "url": "https://www.j-wave.co.jp/special/uday2025/",
+    "title": "RADIO SAKAMOTO Uday | 2025年2月10日"
+  },
+  {
+    "id": "113903561988814512",
+    "created_at": "2025-01-28 02:13:45 UTC",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2501/28/news115.html",
+    "title": "なぜ日本のスマホカメラはシャッター音が鳴るのか　“自主規制”緩和の動きはあるも、見直しを議論すべきでは"
+  },
+  {
+    "id": "113903799991870831",
+    "created_at": "2025-01-28 03:14:17 UTC",
+    "url": "https://www.tbs.co.jp/kujakunodance_tbs/",
+    "title": "TBSテレビ「金曜ドラマ『クジャクのダンス、誰が見た？』」"
+  },
+  {
+    "id": "113904016269589392",
+    "created_at": "2025-01-28 04:09:17 UTC",
+    "url": "https://ghost-in-the-shell-innocence.news-movie.jp/wp/info01/",
+    "title": "『イノセンス』公開20周年記念『イノセンス 4Kリマスター版』がスクリーンで《初》公開！ 『GHOST IN THE SHELL/攻殻機動隊 4Kリマスター版』同時公開 | NEWS | 「イノセンス」公開20周年記念『イノセンス 4K リマスター版』『GHOST IN THE SHELL/攻殻機動隊 4K リマスター版』 公式サイト"
+  },
+  {
+    "id": "113904035239834257",
+    "created_at": "2025-01-28 04:14:07 UTC",
+    "url": "https://note.com/kc_tmn/n/n5f2f35f18cd9",
+    "title": "中国発の作品を中心としたセールイベント「Steam旧正月セール2025」開幕🐍期間は2月10日3時まで！【Steam関連注目ニュース（2025/01/27）】｜けぃし～のPCゲーム紹介"
+  },
+  {
+    "id": "113904104318961174",
+    "created_at": "2025-01-28 04:31:41 UTC",
+    "url": "https://x.com/mangatimekirara/status/1881270033726550212?s=46",
+    "title": "まんがタイムきらら編集部 (@mangatimekirara) on X"
+  },
+  {
+    "id": "113904372424825730",
+    "created_at": "2025-01-28 05:39:52 UTC",
+    "url": "https://www.asahi.com/articles/ASSC125C0SC1UTQP01NM.html",
+    "title": "奇跡、低迷、そしてたどりついた「新潟スタイル」　初Vへ挑むアルビ：朝日新聞"
+  },
+  {
+    "id": "113904513489191195",
+    "created_at": "2025-01-28 06:15:44 UTC",
+    "url": "https://camp-fire.jp/projects/821287/view?utm_campaign=cp_share_c_msg_projects_show",
+    "title": "【DEEP DIVE】民間でインテリジェンス機関を立ち上げ、運営していきたい"
+  },
+  {
+    "id": "113904644096870662",
+    "created_at": "2025-01-28 06:48:57 UTC",
+    "url": "https://x.com/MOT_art_museum/status/1884089014631706771?t=4XWH7rE_hPFkbMaC94YFBA&s=09",
+    "title": "東京都現代美術館 (@MOT_art_museum) on X"
+  },
+  {
+    "id": "113904877441408734",
+    "created_at": "2025-01-28 07:48:18 UTC",
+    "url": "https://podcasts.apple.com/jp/podcast/backspace-fm/id830709730?i=1000685380860",
+    "title": "いま話題のエヴァガンダムのちょっとだけネタバレ話 ep587"
+  },
+  {
+    "id": "113904987460405466",
+    "created_at": "2025-01-28 08:16:16 UTC",
+    "url": "https://youtu.be/oRvgJ-CMTZw?si=Va4BxYDd0fVI7IW0",
+    "title": "松田語録：DeepSeek-R1の衝撃〜OpenAi o1に匹敵する中国AI"
+  },
+  {
+    "id": "113905016985136517",
+    "created_at": "2025-01-28 08:23:47 UTC",
+    "url": "https://mitaimon.com/deepseek-r1%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-%E3%82%92%E4%B8%80%E5%BF%9C%E8%80%83%E3%81%88%E3%81%A6%E3%81%8A%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%91%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%A0%E3%81%91%E3%81%AF%E7%A2%BA%E5%AE%9A%E3%81%97%E3%81%9F%E3%81%BF%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99-396fc9603ea6?source=social.tw",
+    "title": "DeepSeek-R1とはなにか？を一応考えておかないといけないことだけは確定したみたいです"
+  },
+  {
+    "id": "113905324554764932",
+    "created_at": "2025-01-28 09:42:00 UTC",
+    "url": "https://number.bunshun.jp/articles/-/864586",
+    "title": "膝擦り、足だし、肘擦り、肩擦り…ライディングの常識を塗り替えた「キング・ケニー」に始まるグランプリの革命児の系譜（遠藤智）"
+  },
+  {
+    "id": "113905392957789207",
+    "created_at": "2025-01-28 09:59:24 UTC",
+    "url": "https://www.bloomberg.co.jp/news/articles/2025-01-28/SQRZI9T0AFB400",
+    "title": "DeepSeek､ＡＩ開発に関するシリコンバレーの前提覆す―巨額投資に疑義"
+  },
+  {
+    "id": "113905488053204935",
+    "created_at": "2025-01-28 10:23:35 UTC",
+    "url": "https://trafficnews.jp/post/513537",
+    "title": "ジブリ映画ゆかりの地「まるごと迂回トンネル」ついに開通 40年来の“悲願”実現へ 細道だらけの市街地が激変？ | 乗りものニュース"
+  },
+  {
+    "id": "113905717951803788",
+    "created_at": "2025-01-28 11:22:03 UTC",
+    "url": "https://news.yahoo.co.jp/pickup/6527350",
+    "title": "ラリージャパンで妨害疑い 逮捕 - Yahoo!ニュース"
+  },
+  {
+    "id": "113905773523764117",
+    "created_at": "2025-01-28 11:36:11 UTC",
+    "url": "https://gigazine.net/news/20250128-deepseek-janus-pro-image-model/",
+    "title": "DeepSeekが画像生成モデル「Janus Pro」をMITライセンスで公開、DALL-E 3を超える性能と自負"
+  },
+  {
+    "id": "113905862653086063",
+    "created_at": "2025-01-28 11:58:51 UTC",
+    "url": "https://getnavi.jp/digital/1013974/",
+    "title": "次期「iPhone SE」や「iPad Air」などの発売時期、より具体的な情報が判明！ | GetNavi web ゲットナビ"
+  },
+  {
+    "id": "113905915006636170",
+    "created_at": "2025-01-28 12:12:10 UTC",
+    "url": "https://ericmigi.com/blog/why-were-bringing-pebble-back",
+    "title": "Why We’re Bringing Pebble Back"
+  },
+  {
+    "id": "113905931911963281",
+    "created_at": "2025-01-28 12:16:28 UTC",
+    "url": "https://youtu.be/8_OAmb59Mac?si=ngsangXowZXM6i5Y",
+    "title": "NPO法人なせばなる講演 2025年1月25日"
+  },
+  {
+    "id": "113906135039672761",
+    "created_at": "2025-01-28 13:08:07 UTC",
+    "url": "https://youtu.be/e7gSBxGBrgw?si=Te3QBJN4HCDgN1U9",
+    "title": "モンベル 最強の行動保温着 EXライトサーマラップ 活用法"
+  },
+  {
+    "id": "113906191057571085",
+    "created_at": "2025-01-28 13:22:22 UTC",
+    "url": "https://youtube.com/shorts/5dZGF1NKtcM?si=zIs_boKt3ogsZ5E5",
+    "title": "😀Teenage Engineering EP-133 K.O.II Quick Beat Session with ROLAND SP-404 MKII"
+  },
+  {
+    "id": "113906227298767260",
+    "created_at": "2025-01-28 13:31:35 UTC",
+    "url": "https://youtube.com/live/-a7WPAEhUws?si=ktjK3ryOHChrDxFc",
+    "title": "Apple iPad 15周年で考えるコンピューティングの未来  - 週刊 #アップルノート Podcast収録ライブ"
+  },
+  {
+    "id": "113906386324742739",
+    "created_at": "2025-01-28 14:12:01 UTC",
+    "url": "https://www.youtube.com/live/tfvtSG_SvP0?si=4pdHiH2mmNsBI6ZG",
+    "title": "【緊急ライブ】救出作業続く…埼玉県八潮市で道路が陥没  トラック1台が転落【LIVE】(2025年1月28日) ANN/テレ朝"
   }
 ]
