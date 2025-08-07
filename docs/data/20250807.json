@@ -22,5 +22,287 @@
     "created_at": "2025-08-06 17:12:36 UTC",
     "url": "https://huggingface.co/unsloth/gpt-oss-20b-GGUF",
     "title": "unsloth/gpt-oss-20b-GGUF · Hugging Face"
+  },
+  {
+    "id": "114983051818010398",
+    "created_at": "2025-08-06 17:42:13 UTC",
+    "url": "https://zenn.dev/mohy_nyapan/articles/585c336f08f174",
+    "title": "古いWinowsPCで動く!? LLMStudioでGPT-OSSを使ってはじめてのローカルLLM!! （GPT-OSS20B編）"
+  },
+  {
+    "id": "114983900512622573",
+    "created_at": "2025-08-06 21:18:03 UTC",
+    "url": "https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20250806/k00/00m/040/004000c#utm_campaign=bs_md",
+    "title": "『ゾウがぶらさがってもはがれない　超強力な接着剤を開発　北海道大 | 毎日新聞』へのコメント"
+  },
+  {
+    "id": "114984024626197013",
+    "created_at": "2025-08-06 21:49:37 UTC",
+    "url": "https://note.com/kc_tmn/n/n7e84ccbd45e4",
+    "title": "期待と不安が交差する！『天穂のサクナヒメ』新作は基本プレイ無料で配信！？【Steam関連注目ニュース（2025/08/05）】｜けぃし～のPCゲーム紹介"
+  },
+  {
+    "id": "114984055767557144",
+    "created_at": "2025-08-06 21:57:32 UTC",
+    "url": "https://www.businessinsider.jp/article/2508-why-anime-is-a-global-phenomenon/",
+    "title": "アニメは海外にない「日本の日常」を可視化した。東映に聞く「ディズニーにない魅力」 | Business Insider Japan"
+  },
+  {
+    "id": "114984072884141515",
+    "created_at": "2025-08-06 22:01:53 UTC",
+    "url": "https://karapaia.com/archives/530881.html",
+    "title": "クジャクの羽はレーザー光を放っていた。動物界で初めて確認された生体レーザーの仕組み | カラパイア"
+  },
+  {
+    "id": "114984439353231500",
+    "created_at": "2025-08-06 23:35:05 UTC",
+    "url": "https://kikuchidesu.hatenablog.com/entry/2025/08/06/190058",
+    "title": "京都は混んでそうなので、なんとなく滋賀に行ってみたら、すごい良かった - 今夜はいやほい"
+  },
+  {
+    "id": "114984446041385083",
+    "created_at": "2025-08-06 23:36:47 UTC",
+    "url": "https://togetter.com/li/2586062",
+    "title": "記録的な猛暑なのに「電力が足りない」って聞かないのは何で？？→10年に一度の厳しい暑さを想定して対策していたから「静かなニュースの裏に、静かな努力あり」"
+  },
+  {
+    "id": "114984642146999311",
+    "created_at": "2025-08-07 00:26:39 UTC",
+    "url": "https://limo.media/articles/-/92694",
+    "title": "若手社員に「リターンキー押して」と言ったら…予想外の反応に「えっそうなの？」「今の人は違う」と反響 | LIMO | くらしとお金の経済メディア"
+  },
+  {
+    "id": "114984708672469739",
+    "created_at": "2025-08-07 00:43:35 UTC",
+    "url": "https://t.co/zkAkNISFUl",
+    "title": "CIO公式アカウント (@cio_jp_official) on X"
+  },
+  {
+    "id": "114984840565179791",
+    "created_at": "2025-08-07 01:17:07 UTC",
+    "url": "https://www.makuake.com/project/cio-psbc67w2c1a-ac7/",
+    "title": "Makuake｜電源環境のNew Standard 圧倒的な景観美を実現する電源タップ｜Makuake（マクアケ）"
+  },
+  {
+    "id": "114984983644862551",
+    "created_at": "2025-08-07 01:53:30 UTC",
+    "url": "https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2037512.html",
+    "title": "Ryzen Threadripper PRO 9000WX/9000が発売、Ryzen 9000の上院モデルに価格高騰の動き [8月前半のCPU価格]　"
+  },
+  {
+    "id": "114985028357123975",
+    "created_at": "2025-08-07 02:04:53 UTC",
+    "url": "https://x.com/ml0_1337/status/1952905180825174193",
+    "title": "ミロ (@ml0_1337) on X"
+  },
+  {
+    "id": "114985054112548357",
+    "created_at": "2025-08-07 02:11:26 UTC",
+    "url": "https://x.com/hakky_kazumasa/status/1952727750743388397",
+    "title": "Saito@Hakky (@hakky_kazumasa) on X"
+  },
+  {
+    "id": "114985082790610870",
+    "created_at": "2025-08-07 02:18:43 UTC",
+    "url": "https://www.lifehacker.jp/article/2508-chatgpt-gemini-travel/",
+    "title": "「予算15万でバンコク旅行」GeminiとChatGPTに旅行プランを無茶振りしたら、超現実的な回答が | ライフハッカー・ジャパン"
+  },
+  {
+    "id": "114985463343113236",
+    "created_at": "2025-08-07 03:55:30 UTC",
+    "url": "https://x.com/amadeussvx/status/1952703926748541067",
+    "title": "あるしおうね (@AmadeusSVX) on X"
+  },
+  {
+    "id": "114985601674078402",
+    "created_at": "2025-08-07 04:30:41 UTC",
+    "url": "https://www.arukikata.co.jp/guidebook/307047/",
+    "title": "Ｊ２６　地球の歩き方　杉並区"
+  },
+  {
+    "id": "114985616449116087",
+    "created_at": "2025-08-07 04:34:26 UTC",
+    "url": "https://x.com/hiloko_m/status/1953298954680188961?s=12",
+    "title": "森口博子 (@hiloko_m) on X"
+  },
+  {
+    "id": "114985655655868812",
+    "created_at": "2025-08-07 04:44:24 UTC",
+    "url": "https://filmarks.com/dramas/12292/18054",
+    "title": "ドラマ『ウェンズデー シーズン2』の感想・レビュー[389件] | Filmarks"
+  },
+  {
+    "id": "114985725980456729",
+    "created_at": "2025-08-07 05:02:18 UTC",
+    "url": "https://x.com/k_ishi_ai/status/1953278338128330999",
+    "title": "K.Ishi@生成AIの産業応用 (@K_Ishi_AI) on X"
+  },
+  {
+    "id": "114986038251016832",
+    "created_at": "2025-08-07 06:21:42 UTC",
+    "url": "https://www.macotakara.jp/news/entry-49325.html",
+    "title": "Apple、アメリカへの新たな100億ドル（約1兆4700億円）の投資を表明 | NEWS | Mac OTAKARA"
+  },
+  {
+    "id": "114986061469430525",
+    "created_at": "2025-08-07 06:27:37 UTC",
+    "url": "https://www.dtmstation.com/archives/72819.html",
+    "title": "無料のDAW、SoundBridgeが日本上陸。Win/Mac対応でVSTプラグインも使え、一通りのことができちゃうぞ"
+  },
+  {
+    "id": "114986139135412004",
+    "created_at": "2025-08-07 06:47:22 UTC",
+    "url": "https://www.macotakara.jp/news/entry-49326.html",
+    "title": "AppleとCorningが提携し、ケンタッキー州でiPhoneとApple Watchのカバーガラスを100％製造 | NEWS | Mac OTAKARA"
+  },
+  {
+    "id": "114986326944310568",
+    "created_at": "2025-08-07 07:35:07 UTC",
+    "url": "https://x.com/hiei_curry_love/status/1953190248021979189?t=QZcgz38qDy_oCKbrDDUVHA&s=09",
+    "title": "比叡カレー愛好家 (@hiei_curry_love) on X"
+  },
+  {
+    "id": "114986344451603877",
+    "created_at": "2025-08-07 07:39:35 UTC",
+    "url": "https://x.com/choikichi_/status/1953083472706478313?t=jckb9LnyoXyAfcN_uHbG_Q&s=09",
+    "title": "ちょいきち（億野万吉） (@choikichi_) on X"
+  },
+  {
+    "id": "114986357771973292",
+    "created_at": "2025-08-07 07:42:58 UTC",
+    "url": "https://weathernews.jp/news/202508/060096/",
+    "title": "二十四節気「立秋」　真夏のような暑さでも、暦の上では今日から秋 - ウェザーニュース"
+  },
+  {
+    "id": "114986385151065312",
+    "created_at": "2025-08-07 07:49:56 UTC",
+    "url": "https://ascii.jp/elem/000/004/310/4310734/",
+    "title": "即完売必至のスウォッチ×オメガ、スヌーピーの新作MoonSwatchが8月9日🌝たった1日限定で発売"
+  },
+  {
+    "id": "114986554478202549",
+    "created_at": "2025-08-07 08:32:59 UTC",
+    "url": "https://note.com/ishitani/n/n23b314759c36?sub_rt=share_pb",
+    "title": "スプレッドシートが超進化！Manusがビジネスの現場にもたらす革命｜いしたにまさき"
+  },
+  {
+    "id": "114986638247220807",
+    "created_at": "2025-08-07 08:54:18 UTC",
+    "url": "https://x.com/kaiyodo_PR/status/1953292550275748141",
+    "title": "株式会社海洋堂 (@kaiyodo_PR) on X"
+  },
+  {
+    "id": "114986711061467828",
+    "created_at": "2025-08-07 09:12:49 UTC",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2508/07/news110.html",
+    "title": "ソニーのXperiaは今後も継続　スマホ事業を「大事」にし、大切に育てる方針表明"
+  },
+  {
+    "id": "114986792319801669",
+    "created_at": "2025-08-07 09:33:29 UTC",
+    "url": "https://x.com/jcg_3rd_rcgh/status/1950723084786311525?s=12",
+    "title": "第三管区海上保安本部【公式】 (@JCG_3rd_RCGH) on X"
+  },
+  {
+    "id": "114986833277088533",
+    "created_at": "2025-08-07 09:43:53 UTC",
+    "url": "https://direct.sanwa.co.jp/ItemPage/200-BAGBPFAN1",
+    "title": "リュック ファン付き 背中蒸れ軽減 25L アウトドア メンズ バックパック 冷却 熱中症対策 扇風機 SIEERA FIELD 200-BAGBPFAN1 | 通販ならサンワダイレクト"
+  },
+  {
+    "id": "114986943223749716",
+    "created_at": "2025-08-07 10:11:51 UTC",
+    "url": "https://youtube.com/shorts/6nluw38R1kA?si=k13OBwMWJOpJ5y9m",
+    "title": "「ドロドロドロ 日本語版」MV AI生成動画"
+  },
+  {
+    "id": "114986980346361234",
+    "created_at": "2025-08-07 10:21:18 UTC",
+    "url": "https://suno.com/song/5e1ece29-bf2c-47bc-8ead-3255ffa4bd8b",
+    "title": "犬と僕"
+  },
+  {
+    "id": "114987017197209483",
+    "created_at": "2025-08-07 10:30:40 UTC",
+    "url": "https://news.yahoo.co.jp/articles/c8639ca850d82f967c11e735ce9e2bcfab9a4845?source=sns&dv=sp&mid=other&date=20250807&ctg=it&bt=tw_up",
+    "title": "NTT、純国産AI「tsuzumi 2」10月公開--ChatGPTの4oに匹敵する日本語能力（CNET Japan） - Yahoo!ニュース"
+  },
+  {
+    "id": "114987062040415842",
+    "created_at": "2025-08-07 10:42:04 UTC",
+    "url": "https://www.kangnamtimes.com/ja/entertainment/article/524193/",
+    "title": "【前売り爆発】韓国で『鬼滅の刃・無限城編』20万枚突破、公開前から異例の熱狂スタート！ - 江南タイムズ"
+  },
+  {
+    "id": "114987099678441046",
+    "created_at": "2025-08-07 10:51:38 UTC",
+    "url": "https://www.blackmagicdesign.com/jp/support/",
+    "title": "サポートセンター | Blackmagic Design"
+  },
+  {
+    "id": "114987107794153080",
+    "created_at": "2025-08-07 10:53:42 UTC",
+    "url": "https://youtube.com/shorts/omNAIb99IyU?si=BiL5SI7QhONf0VJ8",
+    "title": "シュールすぎるタンポポ職人【ゴブリン・ノーム・ホーン】 #shorts"
+  },
+  {
+    "id": "114987174756734602",
+    "created_at": "2025-08-07 11:10:44 UTC",
+    "url": "https://natalie.mu/comic/news/635339",
+    "title": "アニメ「ねこに転生したおじさん」に立木文彦、転生した外国人おじさんスケキヨ役に（コメントあり） - コミックナタリー"
+  },
+  {
+    "id": "114987183737266801",
+    "created_at": "2025-08-07 11:13:01 UTC",
+    "url": "https://youtu.be/j6_w43X1Rbo?si=hvKDfyn4zA3FZ-A5",
+    "title": "chatGPT、特大朗報！！"
+  },
+  {
+    "id": "114987221409215263",
+    "created_at": "2025-08-07 11:22:36 UTC",
+    "url": "https://youtu.be/AGdjar-ZwCw?t=1291&si=mtZjBq89e1O_SIwl",
+    "title": "o3 mini緊急ハッカソン魂"
+  },
+  {
+    "id": "114987223580254916",
+    "created_at": "2025-08-07 11:23:09 UTC",
+    "url": "https://www.corsair.com/jp/ja/p/pc-cases/cc-9011306-ww/xeneon-edge-14-5-lcd-touchscreen-cc-9011306-ww",
+    "title": "XENEON EDGE 14.5 インチ LCD タッチスクリーン"
+  },
+  {
+    "id": "114987233440391633",
+    "created_at": "2025-08-07 11:25:39 UTC",
+    "url": "https://youtu.be/4B9Mq3en4Tk?t=59&si=xBkolDCUF4Jnd0tR",
+    "title": "緊急動画o3 miniナイトおよびハッカソン開催決定"
+  },
+  {
+    "id": "114987490672892301",
+    "created_at": "2025-08-07 12:31:05 UTC",
+    "url": "https://x.com/otsune/status/1953349726193017022",
+    "title": "ǝunsʇo ıɯnɟɐsɐɯ / メタバース炎上対策専門家 (@otsune) on X"
+  },
+  {
+    "id": "114987589184764018",
+    "created_at": "2025-08-07 12:56:08 UTC",
+    "url": "https://www.macotakara.jp/etc/category-56/entry-49330.html",
+    "title": "Microsoft、GPT-5を搭載したAIアシスタント「Microsoft Copilot for Mac 22.9.430806004」をリリース | Mac App Store | Mac OTAKARA"
+  },
+  {
+    "id": "114987683915252157",
+    "created_at": "2025-08-07 13:20:13 UTC",
+    "url": "https://www.oricon.co.jp/news/2400058/full/",
+    "title": "漫画家・東本昌平さん死去「最後までペンを握っておりました」　バイク愛とともにファンの心に "
+  },
+  {
+    "id": "114987763906743603",
+    "created_at": "2025-08-07 13:40:34 UTC",
+    "url": "https://share.google/FzTBMwYAkkAAMs01i",
+    "title": "  Galaxy、やはり「あのモデル」廃止か - すまほん!!"
+  },
+  {
+    "id": "114987808712028734",
+    "created_at": "2025-08-07 13:51:57 UTC",
+    "url": "https://www.macotakara.jp/software/entry-49331.html",
+    "title": "Blackmagic Design、Apple Vision ProでのApple Immersive Videoコンテンツの直接モニタリングに対応した「DaVinci Resolve Studio 20.1」をリリース | ソフトウェア | Mac OTAKARA"
   }
 ]
