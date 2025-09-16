@@ -4,5 +4,413 @@
     "created_at": "2025-09-15 15:36:52 UTC",
     "url": "https://togetter.com/li/2603061",
     "title": "『リモートワークを5年やってきたがほとんどの人間は向いていないことが分かった』テキストでコミュニケーションをとる難しさ「相手もできなきゃ成立しない」"
+  },
+  {
+    "id": "115209502011457801",
+    "created_at": "2025-09-15 17:31:29 UTC",
+    "url": "https://www.macotakara.jp/etc/tvOS/entry-49519.html",
+    "title": "Apple、Apple TVの臨場感、楽しさ、利便性をさらに向上させる「tvOS 26」を配布開始 | tvOS | Mac OTAKARA"
+  },
+  {
+    "id": "115209502304970368",
+    "created_at": "2025-09-15 17:31:33 UTC",
+    "url": "https://www.macotakara.jp/category-54/entry-49511.html",
+    "title": "Apple、セキュリティを修正した「iOS 15.8.5」を配布開始 | iOS | Mac OTAKARA"
+  },
+  {
+    "id": "115209502573140572",
+    "created_at": "2025-09-15 17:31:37 UTC",
+    "url": "https://www.macotakara.jp/category-54/entry-49512.html",
+    "title": "Apple、セキュリティを修正した「iOS 16.7.12」を配布開始 | iOS | Mac OTAKARA"
+  },
+  {
+    "id": "115209502869443270",
+    "created_at": "2025-09-15 17:31:42 UTC",
+    "url": "https://www.macotakara.jp/category-54/entry-49513.html",
+    "title": "Apple、セキュリティを修正した「iOS 18.7」を配布開始 | iOS | Mac OTAKARA"
+  },
+  {
+    "id": "115209503176754134",
+    "created_at": "2025-09-15 17:31:46 UTC",
+    "url": "https://www.macotakara.jp/category-54/entry-49514.html",
+    "title": "Apple、iPhoneの体験が向上する「iOS 26」を配布開始 | iOS | Mac OTAKARA"
+  },
+  {
+    "id": "115209541525861466",
+    "created_at": "2025-09-15 17:41:32 UTC",
+    "url": "https://www.macotakara.jp/iPadOS/entry-49516.html",
+    "title": "Apple、セキュリティを修正した「iPadOS 15.8.5」を配布開始 | iPadOS | Mac OTAKARA"
+  },
+  {
+    "id": "115209541819952085",
+    "created_at": "2025-09-15 17:41:36 UTC",
+    "url": "https://www.macotakara.jp/iPadOS/entry-49517.html",
+    "title": "Apple、セキュリティを修正した「iPadOS 16.7.12」を配布開始 | iPadOS | Mac OTAKARA"
+  },
+  {
+    "id": "115209542123931362",
+    "created_at": "2025-09-15 17:41:41 UTC",
+    "url": "https://www.macotakara.jp/iPadOS/entry-49515.html",
+    "title": "Apple、重要なセキュリティを修正した「iPadOS 18.7」を配布開始 | iPadOS | Mac OTAKARA"
+  },
+  {
+    "id": "115209542458889204",
+    "created_at": "2025-09-15 17:41:46 UTC",
+    "url": "https://www.macotakara.jp/iPadOS/entry-49518.html",
+    "title": "Apple、iPadの能力と万能さをさらに高める「iPadOS 26」を配布開始 | iPadOS | Mac OTAKARA"
+  },
+  {
+    "id": "115209573443061369",
+    "created_at": "2025-09-15 17:49:39 UTC",
+    "url": "https://www.macotakara.jp/etc/HomePod/entry-49521.html",
+    "title": "Apple、Apple Musicでのクロスフェードに対応した「HomePodソフトウェア 26」を配布開始 | HomePod | Mac OTAKARA"
+  },
+  {
+    "id": "115209631477264254",
+    "created_at": "2025-09-15 18:04:24 UTC",
+    "url": "https://natalie.mu/music/news/640347?s=09",
+    "title": "秋元康、AIに敗北 - 音楽ナタリー"
+  },
+  {
+    "id": "115209741936208830",
+    "created_at": "2025-09-15 18:32:30 UTC",
+    "url": "https://www.macotakara.jp/mac_os_x/entry-49525.html",
+    "title": "Apple、Macがかつてないほど高性能で、生産的で、賢くなる「macOS Tahoe 26」を配布開始 | Mac OS X | Mac OTAKARA"
+  },
+  {
+    "id": "115209742260253085",
+    "created_at": "2025-09-15 18:32:35 UTC",
+    "url": "https://www.macotakara.jp/WatchOS/entry-49520.html",
+    "title": "Apple、向上したパーソナライゼーションを提供する「watchOS 26」を配布開始 | Watch OS | Mac OTAKARA"
+  },
+  {
+    "id": "115209831344221251",
+    "created_at": "2025-09-15 18:55:14 UTC",
+    "url": "https://www.macotakara.jp/etc/support/entry-49527.html",
+    "title": "Apple、AirPods Pro 2、AirPods 4用ファームウェア8A356を配布開始 | サポート | Mac OTAKARA"
+  },
+  {
+    "id": "115210132477859770",
+    "created_at": "2025-09-15 20:11:49 UTC",
+    "url": "https://www.macotakara.jp/Google/entry-49493.html",
+    "title": "Google、Android端末上でAIモデルを実行するアプリ「Google AI Edge Gallery」をリリース | Google | Mac OTAKARA"
+  },
+  {
+    "id": "115210250593781744",
+    "created_at": "2025-09-15 20:41:51 UTC",
+    "url": "https://www.macotakara.jp/etc/category-60/entry-49531.html",
+    "title": "Apple、Arm デバイスをサポートしたWindows用アプリ「Appleデバイス Ver.1.6.0.112」を配布開始 | Apple Apps | Mac OTAKARA"
+  },
+  {
+    "id": "115210250930195690",
+    "created_at": "2025-09-15 20:41:56 UTC",
+    "url": "https://www.macotakara.jp/etc/category-60/entry-49529.html",
+    "title": "Apple、Arm デバイスをサポートしたWindows用アプリ「Apple TV Ver.1.6.0.112」を配布開始 | Apple Apps | Mac OTAKARA"
+  },
+  {
+    "id": "115210251287122633",
+    "created_at": "2025-09-15 20:42:02 UTC",
+    "url": "https://www.macotakara.jp/etc/category-60/entry-49528.html",
+    "title": "Apple、Arm デバイスをサポートしたWindows版アプリ「Apple Music for Windows Ver.1.6.0.112」を配布開始 | Apple Apps | Mac OTAKARA"
+  },
+  {
+    "id": "115210273553751591",
+    "created_at": "2025-09-15 20:47:42 UTC",
+    "url": "https://av.watch.impress.co.jp/docs/series/rt/2047359.html",
+    "title": "「AirPods Pro 3」最速レビュー。音質も使い勝手も進化。「ライブ翻訳」の仕組みとは【西田宗千佳のRandomTracking】"
+  },
+  {
+    "id": "115210299921899904",
+    "created_at": "2025-09-15 20:54:24 UTC",
+    "url": "https://www.macotakara.jp/visionOS/entry-49522.html",
+    "title": "Apple、新しい空間体験を導入する「visionOS 26」を配布開始 | visionOS | Mac OTAKARA"
+  },
+  {
+    "id": "115210338902272915",
+    "created_at": "2025-09-15 21:04:19 UTC",
+    "url": "https://www.macotakara.jp/itunes/entry-49533.html",
+    "title": "Apple、iOS 26インストールデバイスに対応した「iTunes for Windows 12.13.8.3」を配信開始 | iTunes | Mac OTAKARA"
+  },
+  {
+    "id": "115210535510592649",
+    "created_at": "2025-09-15 21:54:19 UTC",
+    "url": "https://www.macotakara.jp/category-54/entry-49534.html",
+    "title": "電話、FaceTime、AirPods のライブ翻訳の日本語サポートは2025年末までに提供予定 | iOS | Mac OTAKARA"
+  },
+  {
+    "id": "115210574926475119",
+    "created_at": "2025-09-15 22:04:20 UTC",
+    "url": "https://togetter.com/li/2603085",
+    "title": "東京2025世界陸上でセグウェイの一輪車に乗ったカメラクルーが話題になっているがもうこの人もアスリートでは…？"
+  },
+  {
+    "id": "115210575701067914",
+    "created_at": "2025-09-15 22:04:32 UTC",
+    "url": "https://x.com/mtt_75058/status/1967605510896787461?s=12",
+    "title": "ベーダーの興行収入速報 (@mtt_75058) on X"
+  },
+  {
+    "id": "115210584986483026",
+    "created_at": "2025-09-15 22:06:54 UTC",
+    "url": "https://togetter.com/li/2603155",
+    "title": "脚本家が原作の描写を「ノイズ」としてしまっていいのか、様々な意見が集まる"
+  },
+  {
+    "id": "115210665671117675",
+    "created_at": "2025-09-15 22:27:25 UTC",
+    "url": "https://www.afpbb.com/articles/-/3598259",
+    "title": "ウクライナ、ロシア鉄道網で破壊工作 少なくとも4人死亡"
+  },
+  {
+    "id": "115210783671596099",
+    "created_at": "2025-09-15 22:57:25 UTC",
+    "url": "https://jp.reuters.com/world/us/AF7JOZM6JVISVGQRCAEZSTZRBM-2025-09-15/",
+    "title": "トランプ氏、首都ワシントンに国家非常事態宣言と表明　連邦化も"
+  },
+  {
+    "id": "115210804616465144",
+    "created_at": "2025-09-15 23:02:45 UTC",
+    "url": "https://www.techno-edge.net/article/2025/09/16/4592.html",
+    "title": "巨大データセンターではなく、世界中に散らばる個人PCが協力してAIを学習「SAPO」　“市民参加型AI開発”の衝撃（生成AIクローズアップ） | テクノエッジ TechnoEdge"
+  },
+  {
+    "id": "115210851228201314",
+    "created_at": "2025-09-15 23:14:36 UTC",
+    "url": "https://www.macotakara.jp/category-54/entry-49535.html",
+    "title": "iOS 26：メッセージ、FaceTime、電話アプリでライブ翻訳を利用する | iOS | Mac OTAKARA"
+  },
+  {
+    "id": "115210966619620525",
+    "created_at": "2025-09-15 23:43:57 UTC",
+    "url": "https://x.com/yoshino893/status/1967732576644370862",
+    "title": "よしの (@yoshino893) on X"
+  },
+  {
+    "id": "115211092235572992",
+    "created_at": "2025-09-16 00:15:54 UTC",
+    "url": "https://www.macotakara.jp/apple_store/entry-49536.html",
+    "title": "Apple、元の場所で「Apple 銀座」をまもなくオープン（仮店舗は9月22日で終了） | Apple Store | Mac OTAKARA"
+  },
+  {
+    "id": "115211188589808227",
+    "created_at": "2025-09-16 00:40:24 UTC",
+    "url": "https://x.com/makotokawazu/status/1967419349213552925?t=TDloTK4-sObwqZNeW-t4FA&s=09",
+    "title": "アバンギャルド河津＠Nスタ出演中 (@makotokawazu) on X"
+  },
+  {
+    "id": "115211203439807952",
+    "created_at": "2025-09-16 00:44:10 UTC",
+    "url": "https://www.techno-edge.net/article/2025/09/16/4593.html",
+    "title": "iOS 26始動。Apple IntelligenceのFoundation Modelとネット無接続でチャットしたら「iPhone純正LLM、意外とやるじゃん」（CloseBox） | テクノエッジ TechnoEdge"
+  },
+  {
+    "id": "115211347550097055",
+    "created_at": "2025-09-16 01:20:49 UTC",
+    "url": "https://www.watch.impress.co.jp/docs/series/nishida/2047380.html",
+    "title": "新iPhoneの「超量産」がもたらすもの　堅牢・低消費電力、カメラの変化【西田宗千佳のイマトミライ】"
+  },
+  {
+    "id": "115211401209983974",
+    "created_at": "2025-09-16 01:34:28 UTC",
+    "url": "https://news.yahoo.co.jp/articles/028a12c524aa82e04c53c84c8384c4d7fef3666a",
+    "title": "「ラブブ」人気失速、ポップマート株下落－時価総額２兆円弱吹き飛ぶ（Bloomberg） - Yahoo!ニュース"
+  },
+  {
+    "id": "115211509621400220",
+    "created_at": "2025-09-16 02:02:02 UTC",
+    "url": "https://www.docomo.ne.jp/info/news_release/2025/09/16_01.html",
+    "title": "「iPhoneのマイナンバーカード」を用いた本人確認を「dアカウント」・「d払い」アプリで開始 | お知らせ | NTTドコモ"
+  },
+  {
+    "id": "115211565364975240",
+    "created_at": "2025-09-16 02:16:13 UTC",
+    "url": "https://www.businessinsider.jp/article/2507-apple-new-ios26-features/",
+    "title": "iPhone・iPad向け新OSの5つの注目機能をチェック。「ガラスな見た目」から「AI迷惑電話対策」まで | Business Insider Japan"
+  },
+  {
+    "id": "115211656438831092",
+    "created_at": "2025-09-16 02:39:23 UTC",
+    "url": "https://togetter.com/li/2603309",
+    "title": "北大ヒグマ研究グループでは熊避けのため「ポイポーイ」と声を出す→なぜ「ポイポーイ」なのかは謎だが、1970年の創立以来一度も事故がないらしい"
+  },
+  {
+    "id": "115211667872409767",
+    "created_at": "2025-09-16 02:42:17 UTC",
+    "url": "https://youtu.be/tm6Ymg_tSgc?si=6DfN0uBwj6zjyKAu",
+    "title": "イヨマンテ リㇺセ／熊の霊送りの踊り（白老）"
+  },
+  {
+    "id": "115212207782470068",
+    "created_at": "2025-09-16 04:59:35 UTC",
+    "url": "https://www.watch.impress.co.jp/docs/news/2047525.html",
+    "title": "OpenAI、コーディング特化の「GPT-5-Codex」"
+  },
+  {
+    "id": "115212259439225611",
+    "created_at": "2025-09-16 05:12:44 UTC",
+    "url": "https://www.oricon.co.jp/news/2406833/full/",
+    "title": "『鬼滅の刃』全世界で大ヒット！総興収680億円突破　北米は26年ぶり記録更新…海外の主な記録まとめ "
+  },
+  {
+    "id": "115212276928918209",
+    "created_at": "2025-09-16 05:17:11 UTC",
+    "url": "https://x.com/nishiedogawa/status/1967529855358283845",
+    "title": "にっしー映画感想 (@nishiedogawa) on X"
+  },
+  {
+    "id": "115212293596975434",
+    "created_at": "2025-09-16 05:21:25 UTC",
+    "url": "https://x.com/shinjitsuichiro/status/1943913335407489214?s=12&t=4DgxZ_Q1rr7wev04U6DiVQ",
+    "title": "真実一郎 (@shinjitsuichiro) on X"
+  },
+  {
+    "id": "115212296883354194",
+    "created_at": "2025-09-16 05:22:15 UTC",
+    "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01730/",
+    "title": "「b8ta」が国内全店閉店　「売らない店」の象徴が日本から完全撤退へ "
+  },
+  {
+    "id": "115212341734060553",
+    "created_at": "2025-09-16 05:33:39 UTC",
+    "url": "https://levtech.jp/media/article/focus/detail_725/",
+    "title": "気づけばFirefoxのコア開発者になっていた。「修正されないバグの報告」から始まった25年間【フォーカス】 レバテックラボ（レバテックLAB）"
+  },
+  {
+    "id": "115212390064157072",
+    "created_at": "2025-09-16 05:45:57 UTC",
+    "url": "https://www.macotakara.jp/hardware/entry-49537.html",
+    "title": "Other World Computing、USB 80Gbps対応NVMe SSDドライブ「OWC Express 1M2 80G」を日本でも販売開始 | ハードウェア | Mac OTAKARA"
+  },
+  {
+    "id": "115212493306174198",
+    "created_at": "2025-09-16 06:12:12 UTC",
+    "url": "https://x.com/kokuhou_movie/status/1967815713089077553?s=12",
+    "title": "映画『国宝』公式アカウント (@kokuhou_movie) on X"
+  },
+  {
+    "id": "115212525949527913",
+    "created_at": "2025-09-16 06:20:30 UTC",
+    "url": "https://natalie.mu/comic/news/640379",
+    "title": "「南国少年パプワくん」「宇宙船サジタリウス」「みかん絵日記」をYouTubeで順次配信 - コミックナタリー"
+  },
+  {
+    "id": "115212544259474168",
+    "created_at": "2025-09-16 06:25:10 UTC",
+    "url": "https://www.macotakara.jp/iphone/entry-49491.html",
+    "title": "iPhone 17シリーズ、iPhone Airベンチマークレポート | iPhone | Mac OTAKARA"
+  },
+  {
+    "id": "115212795485550568",
+    "created_at": "2025-09-16 07:29:03 UTC",
+    "url": "https://www.macotakara.jp/iphone_app_store/entry-49538.html",
+    "title": "Roy Schulz、iOS 26/iPadOS 26のLLMを使用したAIチャットアプリ「SmartFruit」をApp Storeにてリリース | iPhone App Store | Mac OTAKARA"
+  },
+  {
+    "id": "115212961301605819",
+    "created_at": "2025-09-16 08:11:13 UTC",
+    "url": "https://youtu.be/WIVpWs1OYAI?si=u_K2NWybS9NPidP1",
+    "title": "俺の iPhone4S がやってきた！"
+  },
+  {
+    "id": "115213148670250688",
+    "created_at": "2025-09-16 08:58:52 UTC",
+    "url": "https://www.itmedia.co.jp/news/spv/2509/16/news112.html?s=09",
+    "title": "ティファール、電気ケトル418万台をリコール　発煙や発火の可能性も　原因は「不適切な使用方法」"
+  },
+  {
+    "id": "115213205122703354",
+    "created_at": "2025-09-16 09:13:14 UTC",
+    "url": "https://www.macotakara.jp/accessories/entry-49539.html",
+    "title": "アンカー・ジャパン、USB-Cケーブル一体型USB急速充電器「Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル) 」を販売開始 | アクセサリ | Mac OTAKARA"
+  },
+  {
+    "id": "115213276829724195",
+    "created_at": "2025-09-16 09:31:28 UTC",
+    "url": "https://www.macotakara.jp/sale/entry-49540.html",
+    "title": "Amazon、NewQのワイヤレス充電&Apple Watch充電対応10000mAhモバイルバッテリー「NewQ NQ-WB-02」を2,249円で販売中（クーポン適用） | 特価 | Mac OTAKARA"
+  },
+  {
+    "id": "115213303117372845",
+    "created_at": "2025-09-16 09:38:09 UTC",
+    "url": "https://youtu.be/P2EMhbQo3ME?si=w_oFY8XgwMK_XydI",
+    "title": "来場者数、愛知万博超えへ 大阪・関西万博閉幕まで1カ月"
+  },
+  {
+    "id": "115213326120253929",
+    "created_at": "2025-09-16 09:44:00 UTC",
+    "url": "https://youtu.be/SuzlVw9EkFc?si=zB-L4PST5fQjOl6d",
+    "title": "天呐 两个Tim！我们采访了苹果CEO Tim Cook"
+  },
+  {
+    "id": "115213327994263924",
+    "created_at": "2025-09-16 09:44:29 UTC",
+    "url": "https://ascii.jp/elem/000/004/320/4320080/",
+    "title": "アップル「iOS 26」Safariが使いづらい？ タブの閉じ方が変わったんです"
+  },
+  {
+    "id": "115213448925622174",
+    "created_at": "2025-09-16 10:15:14 UTC",
+    "url": "https://wirelesswire.jp/2025/09/91258/",
+    "title": "地方銀行で支店長・部長・役員クラスを対象にAIハッカソンをやってきた"
+  },
+  {
+    "id": "115214083456461281",
+    "created_at": "2025-09-16 12:56:36 UTC",
+    "url": "https://taisy0.com/2025/09/12/215105.html",
+    "title": "TVerが｢PlayStation 5｣に対応｜ゲーム機対応は初 | 気になる、記になる…"
+  },
+  {
+    "id": "115214172220610244",
+    "created_at": "2025-09-16 13:19:10 UTC",
+    "url": "https://youtu.be/cUgsecDtNIY?si=2rm8DDyp0LVsPfjL",
+    "title": "【全3回 AI鼎談】バイブコーディング時代に求められるものとは【布留川英一×千代田まどか×清水亮】"
+  },
+  {
+    "id": "115214459715987129",
+    "created_at": "2025-09-16 14:32:17 UTC",
+    "url": "https://x.com/sabatech_pr/status/1967594018227068953?t=WzombFtn8XqNtkkKNC1xZA&s=09",
+    "title": "ミリレポ (@sabatech_pr) on X"
+  },
+  {
+    "id": "115214463957667237",
+    "created_at": "2025-09-16 14:33:22 UTC",
+    "url": "https://www.watch.impress.co.jp/docs/news/2047417.html?s=09",
+    "title": "Spotify無料版、「好きな曲を選んで再生」が可能に"
+  },
+  {
+    "id": "115214482577510127",
+    "created_at": "2025-09-16 14:38:06 UTC",
+    "url": "https://gigazine.net/news/20250916-apple-say-installing-ios-26-impact-battery/",
+    "title": "iPhoneをiOS 26にアップデートするとバッテリー寿命に一時的に影響が出るとAppleが警告"
+  },
+  {
+    "id": "115214510738076252",
+    "created_at": "2025-09-16 14:45:16 UTC",
+    "url": "https://x.com/crew_163542/status/1967846473426698419?s=12&t=4DgxZ_Q1rr7wev04U6DiVQ",
+    "title": "魑魅魍魎 Toya (@Crew_163542) on X"
+  },
+  {
+    "id": "115214522519584624",
+    "created_at": "2025-09-16 14:48:16 UTC",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2509/16/news118.html",
+    "title": "Lenovoの新型PCを見て、聞いて、触ってきた！　周辺機器やコンセプトモデルも見どころたくさん"
+  },
+  {
+    "id": "115214522894592177",
+    "created_at": "2025-09-16 14:48:21 UTC",
+    "url": "https://youtube.com/shorts/1c_Nu5qUUOM?si=jwGO-i3L9F4EWnKF",
+    "title": "😃 Tuesday Cinematic Brass & Sax Flip | MPC One + SP-404 MKII"
+  },
+  {
+    "id": "115214523734524578",
+    "created_at": "2025-09-16 14:48:34 UTC",
+    "url": "https://taisy0.com/2025/09/16/215282.html",
+    "title": "Amazon、オーディオブック配信サービス｢Audible｣の2ヶ月無料体験キャンペーンを開催中（10月10日まで） | 気になる、記になる…"
+  },
+  {
+    "id": "115214537314218918",
+    "created_at": "2025-09-16 14:52:01 UTC",
+    "url": "https://www.macotakara.jp/etc/category-60/entry-49541.html",
+    "title": "Apple、ウィジェットに対応し、提供国が増えた「Apple Sports 3.3」を配布開始 | Apple Apps | Mac OTAKARA"
   }
 ]
